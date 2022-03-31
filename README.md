@@ -1,6 +1,6 @@
 # TicketMasterBot
 
-My first program
+https://www.instagram.com/franciscovmag/ 
 
 TicketMaster Bot to get alerts when tickets are available
 (Designed for the bad bunny concert, only change the URL's)
